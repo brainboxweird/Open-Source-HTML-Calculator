@@ -1,7 +1,7 @@
                                                  Open Source HTML Calculator 
 ---------------------------------------------------------------------------------                
 Welcome to the Open Source HTML Calculator! This calclator is open source, easy to use, and easy to get on your computer.
-Next I will show you how to get this calculatoron your computer.
+Next I will show you how to get this calculator on your computer.
 
                                   How to get the Open Source HTML Calculator on your computer. 
 ---------------------------------------------------------------------------------  
